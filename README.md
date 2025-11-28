@@ -1,3 +1,3 @@
-# webpong
+# ASCII maze
 just testing out making web games (HTML, CSS, JS)
-NO WEBSITE YET JUST THE SOURCE CODE
+the testing branch might get a website
